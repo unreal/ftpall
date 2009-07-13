@@ -1,0 +1,4 @@
+binary
+prompt
+mget *.*
+quit
